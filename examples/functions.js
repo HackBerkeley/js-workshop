@@ -32,3 +32,23 @@ var filter = function (array, fn) {
     }
     return result;
 };
+
+
+
+
+
+var add = function (x) {
+    return x + y;
+};
+
+add.hello = "world";
+add.sayHi = function () {
+    console.log(add.hello);
+};
+
+add.sayHi(); // prints out world
+add(5); // returns NaN
+add.call({y: 4}, 5); // returns 9
+add.apply({y: 4}, [ 5 ]); // returns 9
+add.bind({y: 4});
+add(5); // returns 9

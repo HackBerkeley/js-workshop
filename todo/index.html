@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>ToDo</title>
+</head>
+<body>
+    <input type="text" id="content" />
+    <button onclick="add();">add</button>
+    <ul id="list"></ul>
+
+    <script type="text/javascript">
+        function add() {
+            var content = document.getElementById("content").value;
+            var item = document.createElement("li");
+            var contentNode = document.createTextNode(content);
+            item.appendChild(contentNode);
+            document.getElementById("list").appendChild(item);
+            document.getElementById("content").value = "";
+        }
+    </script>
+</body>
+</html>
