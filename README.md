@@ -9,9 +9,9 @@ Welcome to the JavaScript Workshop
 + Slides for this workshop can be found [here](https://docs.google.com/presentation/d/1rf9F-waNPT0V0ntWZXqtapn7_077GMi1nZ293uOpZXo/edit?usp=sharing)
 
 
-## Cloud9 ##
+## CodeShare ##
 + You can just look at the projecter while we are doing live coding
-+ Alternatively you can look at your own computer using cloud9: follow the link [here](???)
++ Alternatively you can look at your own computer using codeshare: follow the link [here](http://codeshare.io/habjsworkshop)
 
 
 ## This Repo ##
