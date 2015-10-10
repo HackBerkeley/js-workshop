@@ -26,6 +26,6 @@ Welcome to the Javascript Workshop
 
 ## References ##
 
-+ W3Schools: [w3schools.com](http://www.w3schools.com/)
++ W3Schools: [w3schools.com](http://www.w3schools.com/jsref/)
 + Mozilla Developer Network (MDN): [developer.mozilla.org](https://developer.mozilla.org/en-US/)
 + *JavaScript: The Good Parts*: $17.69 on [Amazon](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
