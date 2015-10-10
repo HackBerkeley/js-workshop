@@ -1,4 +1,4 @@
-Welcome to the JavaScript Workshop
+Welcome to the Javascript Workshop
 ==================================
 
 ![Logo](http://hackersatberkeley.com/images/people/default.png)
@@ -17,7 +17,7 @@ Welcome to the JavaScript Workshop
 ## This Repo ##
 
 + Please use git to clone this repo or just click the [Download ZIP](https://github.com/TakLee96/js-workshop/archive/master.zip) button on the right:
-	- `examples/` JavaScript code examples
+	- `examples/` Javascript code examples
 	- `todo/` **todo** project starter code 
 	- `todo-solution/` **todo** project solution code
 	- `imgur-voice/` final project starter code
