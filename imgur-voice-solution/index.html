@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Imgur Voice</title>
+	<link rel="stylesheet" type="text/css" href="index.css"></link>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css"></link>
+</head>
+	<body>
+		<div class="container">
+			<h1>Imgur Voice</h1>
+			<p>Search images with just your voice</p>
+			<div class="alert alert-success" role="alert">
+				<div class="btn btn-primary" id="listen-button" type="button" onclick="toggleListen()">Start Listening</div>
+				<span id="status-text">Hit "Start Listening" and say a word!</span>
+			</div>
+			<div class="row" id="image-container"></div>
+		</div>
+		<script src="index.js"></script>
+	</body>
+</html>
