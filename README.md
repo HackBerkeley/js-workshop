@@ -1,6 +1,8 @@
 Welcome to the JavaScript Workshop
 ==================================
 
+![Logo](http://hackersatberkeley.com/images/people/default.png)
+
 ## Slides ##
 
 + HTML/CSS workshop slides can be found [here](https://docs.google.com/presentation/d/1eOFjNNqW1eT8KsMtVej-3Z_SAeNdvm39lXawj2jfqZM/edit#slide=id.gbb3433bc3_1_7)
