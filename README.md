@@ -1,7 +1,7 @@
 Welcome to the Javascript Workshop
 ==================================
 
-![Logo](http://hackersatberkeley.com/images/people/default.png)
+![Banner](http://i.imgur.com/kOI9E1s.jpg)
 
 ## Slides ##
 
